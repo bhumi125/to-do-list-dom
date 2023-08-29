@@ -1,6 +1,8 @@
+// 123
+// 987
 const addButton = document.getElementById("add");
 const input = document.getElementById("userInput");
-// 123
+
 const ul = document.querySelector("ul");
 const item = document.getElementsByTagName("li");
 
