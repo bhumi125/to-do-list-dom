@@ -1,5 +1,3 @@
-// 123
-// 987
 const addButton = document.getElementById("add");
 const input = document.getElementById("userInput");
 
